@@ -1,3 +1,9 @@
+# Ryan Collins Unity Basics
+### Mechanic 1 - WASD Movement
+I added diagonal movement using QEZC keys.
+![Image](
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ryscco/UnityBasics/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
