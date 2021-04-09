@@ -1,7 +1,7 @@
 # Ryan Collins Unity Basics
-### Mechanic 1 - WASD Movement
-I added diagonal movement using QEZC keys.
-![Image](
+### Mechanic 1 - WASD Movement [PLAY IT HERE ⧉](https://ryscco.github.io/UnityBasics/Mechanic%201/build1/)
+I added diagonal movement using QEZC keys. Not quite visible in the screenshot, however.<br>
+<img src=https://github.com/ryscco/UnityBasics/blob/b7009586068a120d243420856496fbd49cd9b7cb/Mechanic%201/screenshot.png width=50%>
 
 
 ## Welcome to GitHub Pages
