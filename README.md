@@ -3,6 +3,10 @@
 I added diagonal movement using QEZC keys. Not quite visible in the screenshot, however.<br>
 ![Image](Mechanic%201/screenshot.png)
 
+### Mechanic 2 - Space Bar to Shoot [PLAY IT HERE ⧉](url)
+The bullets now move toward the mouse location when fired in x-axis only.<br>
+![Image](path)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ryscco/UnityBasics/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
