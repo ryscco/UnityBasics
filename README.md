@@ -3,9 +3,9 @@
 I added diagonal movement using QEZC keys. Not quite visible in the screenshot, however.<br>
 ![Image](Mechanic%201/demogif.gif)
 
-### Mechanic 2 - Space Bar to Shoot [PLAY IT HERE ⧉](url)
-The bullets now move toward the mouse location when fired in x-axis only.<br>
-![Image](path)
+### Mechanic 2 - Space Bar to Shoot [PLAY IT HERE ⧉](https://ryscco.github.io/UnityBasics/Mechanic%202/build1/)
+The player is fixed to the x-axis and bullets fall back to Earth after fired.<br>
+![Image](Mechanic%201/demogif.gif)
 
 ## Welcome to GitHub Pages
 
