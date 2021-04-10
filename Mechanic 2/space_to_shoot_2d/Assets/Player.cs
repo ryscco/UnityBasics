@@ -7,8 +7,8 @@ public class Player : MonoBehaviour {
     private Rigidbody2D rb2d;
     public Transform firePoint;
     public GameObject bulletPrefab;
-    private float bulletSpeed = 10f;
-    private float cooldown = 0.5f;
+    private float bulletSpeed = 15f;
+    private float cooldown = 0.2f;
     private float nextFire = 0f;
 
     void Start () {
@@ -22,17 +22,6 @@ public class Player : MonoBehaviour {
 
     private void UpdateMotion() {
         Vector3 pos = transform.position;
-        Vector3 mousePos = Input.mousePosition;
-
-        if (Input.GetKey("w"))
-        {
-            pos.y += speed * Time.deltaTime;
-        }
-
-        if (Input.GetKey("s"))
-        {
-            pos.y -= speed * Time.deltaTime;
-        }
 
         if (Input.GetKey("d"))
         {
@@ -49,6 +38,7 @@ public class Player : MonoBehaviour {
     
     private void ProcessBulletSpwan() {
       if ((Input.GetKey(KeyCode.Space) || Input.GetKey(KeyCode.Mouse0)) && Time.time > nextFire) {
+        Vector3 mousePos = Input.mousePosition;
         GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
         Rigidbody2D re = bullet.GetComponent<Rigidbody2D>();
         re.velocity = firePoint.up * bulletSpeed;
