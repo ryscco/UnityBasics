@@ -1,7 +1,7 @@
 # Ryan Collins Unity Basics
 ### Mechanic 1 - WASD Movement [PLAY IT HERE ⧉](https://ryscco.github.io/UnityBasics/Mechanic%201/build1/)
 I added diagonal movement using QEZC keys. Not quite visible in the screenshot, however.<br>
-![Image](Mechanic%201/screenshot.png)
+![Image](Mechanic%201/demogif.gif)
 
 ### Mechanic 2 - Space Bar to Shoot [PLAY IT HERE ⧉](url)
 The bullets now move toward the mouse location when fired in x-axis only.<br>
