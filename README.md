@@ -12,8 +12,8 @@ The bomb blast damage is randomized and enemy healths are randomized.<br>
 The bomb may not destroy all enemies at once.<br>
 ![Image](Mechanic%203/demogif.gif)
 
-### Mechanic 4 - Space Bar to Shoot [PLAY IT HERE ⧉](https://ryscco.github.io/UnityBasics/Mechanic%204/build1/)
-The player is fixed to the x-axis and bullets fall back to Earth after fired.<br>
+### Mechanic 4 - Bounce Off Walls [PLAY IT HERE ⧉](https://ryscco.github.io/UnityBasics/Mechanic%204/build1/)
+Player can alter rotation of ball using Q and E keys.<br>
 ![Image](Mechanic%204/demogif.gif)
 
 ### Mechanic 5 - Space Bar to Shoot [PLAY IT HERE ⧉](https://ryscco.github.io/UnityBasics/Mechanic%205/build1/)
